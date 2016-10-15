@@ -1,0 +1,29 @@
+
+1.Clone
+$ git clone https://github.com/vinaysumani/Test.git
+
+2.Move to the Folder
+$ cd Test
+ /d/TestFolder/Test (master)
+
+3. check Status
+$ git status
+
+4.Add a File using Commit
+$ git commit -m "Add New Test File"
+ 
+5 Push a File
+$ git push origin
+
+
+Create a New Branch
+$ git checkout -b TestBranch
+
+Pushing the branch to Main
+$ git push origin TestBranch
+
+
+
+
+
+
